@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 Im 20 years old programmer. I currently work as Frontend Developer at HashUp.it. Currently seeking knowledge in React and web apps. Love to learn new technologies and share my knowledge with others.
 
 ### Catch me there
-<a href="https://www.linkedin.com/in/patrykrossa/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&color=3b0f04&logoColor=white"/> </a>
+<a href="https://www.linkedin.com/in/patrykrossa/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&color=2E2524&logoColor=white"/> </a>
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&color=2E2524&logoColor=white)
