@@ -37,7 +37,7 @@ Im 20 years old programmer. I currently work as Frontend Developer at HashUp.it.
 ### Stats
 <div>
 <a href="https://github.com/patrykrossa/github-readme-stats">
-  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=patrykrossa&count_private=true&layout=compact&theme=darcula&hide=stars" />
+  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=patrykrossa&count_private=true&layout=compact&theme=darcula&show_icons=true&hide=stars" />
 </a>
  <img align="center" height="148px"   src="https://tenor.com/view/the-it-crowd-dedcel-doge-dogecoin-fire-gif-21249833.gif" />
 </div>
