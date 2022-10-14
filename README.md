@@ -35,11 +35,11 @@ Im 20 years old programmer. I currently work as Frontend Developer at HashUp.it.
 ### Stats
 <div>
 <a href="https://github.com/patrykrossa/github-readme-stats">
-  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=patrykrossa&count_private=true&layout=compact&theme=darcula&hide=stars" />
+  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=patrykrossa&count_private=true&layout=compact&theme=monokai&hide=stars" />
 </a>
- <img align="center" height="148px"   src="https://s9.gifyu.com/images/output-onlinegiftools6c36b02e74d2e6d6.gif" />
+ <img align="center" height="148px"   src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F567523990538356835%2F&psig=AOvVaw2CZLfQNUjbWILDYzXOJsxC&ust=1665840363845000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLikrorp3_oCFQAAAAAdAAAAABAE" />
 </div>
 
 ### Projects 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=patrykrossa&repo=financial-chart-made-simple&theme=darcula)](https://github.com/patrykrossa/financial-chart-made-simple?)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=patrykrossa&repo=financial-chart-made-simple&theme=monokai)](https://github.com/patrykrossa/financial-chart-made-simple?)
 
