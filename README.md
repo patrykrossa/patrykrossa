@@ -26,6 +26,8 @@ Im 20 years old programmer. I currently work as Frontend Developer at HashUp.it.
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&color=2E2524&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%3670A0.svg?style=flat-square&logo=c%2B%2B&color=2E2524&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrykrossa&layout=compact&theme=darcula)](https://github.com/patrykrossa/github-readme-stats)
+
 ### Technologies
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat-square&logo=yarn&color=2E2524&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&color=2E2524&logoColor=white)
