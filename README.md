@@ -24,7 +24,7 @@ Im 20 years old programmer. I currently work as Frontend Developer at HashUp. Cu
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&color=3b0f04&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&color=3b0f04&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&color=3b0f043&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&color=3b0f04&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&color=3b0f04&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%3670A0.svg?style=flat-square&logo=c%2B%2B&color=3b0f04&logoColor=white)
 
@@ -43,4 +43,4 @@ Im 20 years old programmer. I currently work as Frontend Developer at HashUp. Cu
 </div>
 
 ### Projects 
-[![Readme Card](https://github.com/patrykrossa/financial-chart-made-simple)]
+[![Readme Card](https://github.com/patrykrossa/financial-chart-made-simple)](https://github.com/patrykrossa/financial-chart-made-simple)
