@@ -35,11 +35,11 @@ Im 20 years old programmer. I currently work as Frontend Developer at HashUp.it.
 ### Stats
 <div>
 <a href="https://github.com/patrykrossa/github-readme-stats">
-  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=patrykrossa&count_private=true&layout=compact&theme=omni&hide=stars" />
+  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=patrykrossa&count_private=true&layout=compact&theme=monokai&hide=stars" />
 </a>
  <img align="center" height="148px"   src="https://s9.gifyu.com/images/output-onlinegiftools6c36b02e74d2e6d6.gif" />
 </div>
 
 ### Projects 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=patrykrossa&repo=financial-chart-made-simple&theme=omni)](https://github.com/patrykrossa/financial-chart-made-simple?)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=patrykrossa&repo=financial-chart-made-simple&theme=monokai)](https://github.com/patrykrossa/financial-chart-made-simple?)
 
