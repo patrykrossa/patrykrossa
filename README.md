@@ -41,4 +41,4 @@ Im 20 years old programmer. I currently work as Frontend Developer at HashUp.it.
 </div>
 
 ### Projects 
-[![Readme Card](https://github.com/patrykrossa/financial-chart-made-simple)](https://github.com/patrykrossa/financial-chart-made-simple)
+[[Readme Card](https://github.com/patrykrossa/financial-chart-made-simple)](https://github.com/patrykrossa/financial-chart-made-simple)
