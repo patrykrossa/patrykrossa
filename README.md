@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Im 22 years old programmer. I currently work as Fullstack Dev at ING Hubs and HashUp.it. Love to learn new technologies and share my knowledge with others.
+Im 23 years old programmer. I currently work as Fullstack Dev at ING Hubs and HashUp.it. Love to learn new technologies and share my knowledge with others.
 
 ### Catch me there
 <a href="https://www.linkedin.com/in/patrykrossa/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&color=2E2524&logoColor=white"/> </a>
